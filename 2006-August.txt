@@ -1,0 +1,33 @@
+From dadexter at gmail.com  Tue Aug 15 15:13:16 2006
+From: dadexter at gmail.com (Martin Lefebvre)
+Date: Tue, 15 Aug 2006 09:13:16 -0400
+Subject: [Buildpkg-users] News Update
+Message-ID: <ed5f04980608150613p37ae5ca7s46c2f0a3655d5c03@mail.gmail.com>
+
+If anyone is reading this, here we go:
+
+With Slackware 11.0 reaching the state of RC1, I have decided it's
+time to get working for real.
+
+As of today, I will no longer be following the official Slackware
+updates for my home and development systems. I will see the updates,
+but add them to buildpkg instead.
+
+In parallel, Jantin Linux development will follow the updates added to buildpkg.
+
+I have the intention to release at least an official beta before the
+end of 2006, but things can change.
+
+-- 
+Martin Lefebvre
+eMail: dadexter at gmail.com
+
+WWW: http://sigterm.homeunix.com
+Registered Linux #349269
+
+"Me? I'm dishonest, and a dishonest man you can always trust to
+be dishonest. Honestly. It's the honest ones you want to watch
+out for, because you can never predict when they're going to do
+something incredibly... stupid."
+
+
